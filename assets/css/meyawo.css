@@ -11890,7 +11890,7 @@ pre .code {
 
 @media (max-width: 991.98px) {
   .custom-navbar .hamburger {
-    margin-left: auto;
+    margin-right: auto;
   }
   .custom-navbar .nav {
     position: absolute;
