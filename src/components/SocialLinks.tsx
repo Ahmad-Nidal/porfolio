@@ -9,12 +9,12 @@ const socialLinks = [
     label: 'See & Download My Resume'
   },
   {
-    icon: <MessageCircle size={24} />,
+    icon: <MessagesSquare size={24} />,
     href: 'https://t.me/ahmadnidall',
     label: 'Contact Me on Telegram'
   },
   {
-    icon: <MessagesSquare size={24} />,
+    icon: <MessageCircle size={24} />,
     href: 'https://t.me/ahmad_nidal',
     label: 'View My Telegram Channel'
   },

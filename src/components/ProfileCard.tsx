@@ -17,9 +17,7 @@ export function ProfileCard() {
         <h1 className="text-3xl font-bold text-white mb-2">أحمد نضال</h1>
 
         <p className="text-gray-400 text-lg mb-4 leading-relaxed">
-          مهندس برمجيات | Software Eng | Back End Developer
-          <br />
-          ASP.Net Core | ABP Framework
+          مهندس برمجيات | Software Engineer
         </p>
       </section>
       
