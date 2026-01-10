@@ -1,8 +1,13 @@
 import React from 'react';
-import { Github, Linkedin, Mail, MessageCircle, MessagesSquare } from 'lucide-react';
+import { FileUser, Github, Linkedin, Mail, MessageCircle, MessagesSquare } from 'lucide-react';
 import QabilahIcon from '@/assets/images/icons/qabilah.svg?react';
 
 const socialLinks = [
+  {
+    icon: <FileUser size={24} />,
+    href: 'https://rxresu.me/ahmad-nidal/ahmad-nidal-cv-dotnet-sde',
+    label: 'See & Download My Resume'
+  },
   {
     icon: <MessageCircle size={24} />,
     href: 'https://t.me/ahmadnidall',
